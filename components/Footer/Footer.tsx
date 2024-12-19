@@ -6,8 +6,9 @@ export default function Footer() {
       <p>
         © {new Date().getFullYear()}{" "}
         <Link href="https://google.com" target="_blank">
-          Your Company Name
+          Your Company Name.
         </Link>
+        All rights reserved.
       </p>
     </footer>
   );
