@@ -8,7 +8,7 @@ export default function Footer() {
         <Link href="https://google.com" target="_blank">
           Your Company Name.
         </Link>
-        All rights reserved.
+        &nbsp;All rights reserved.
       </p>
     </footer>
   );
